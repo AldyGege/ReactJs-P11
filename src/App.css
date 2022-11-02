@@ -1,0 +1,139 @@
+.Parentbox {
+  width: 80%;
+  overflow: hidden;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.Foto {
+  float: left;
+  width: 50%;
+  height: 500px;
+}
+
+.Foto img {
+  width: 700px;
+}
+
+.Deskripsi {
+  width: 40%;
+  overflow: hidden;
+  float: left;
+  margin-left: 30px;
+}
+
+.Deskripsi .Info {
+  line-height: 1.8;
+  color: rgb(18, 11, 49);
+}
+
+.Deskripsi .Price {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.Deskripsi .Title {
+  margin: 0;
+}
+
+.Deskripsi .Cate {
+  color: #acaeb2;
+}
+.Deskripsi .Ukuran .S {
+  width: 60px;
+  height: 40px;
+  margin-right: 20px;
+  background-color: skyblue;
+}
+.Deskripsi .Ukuran .M {
+  width: 60px;
+  height: 40px;
+  margin-right: 20px;
+  background-color: skyblue;
+}
+.Deskripsi .Ukuran .L {
+  width: 60px;
+  height: 40px;
+  margin-right: 20px;
+  background-color: skyblue;
+}
+.Deskripsi .Ukuran .XL {
+  width: 60px;
+  height: 40px;
+  margin-right: 20px;
+  background-color: skyblue;
+}
+.Deskripsi .Ukuran .S:hover {
+  background-color: cadetblue;
+}
+.Deskripsi .Ukuran .M:hover {
+  background-color: cadetblue;
+}
+.Deskripsi .Ukuran .L:hover {
+  background-color: cadetblue;
+}
+.Deskripsi .Ukuran .XL:hover {
+  background-color: cadetblue;
+}
+.Deskripsi .Warna .Merah {
+  width: 40px;
+  height: 40px;
+  background-color: red;
+  margin-right: 20px;
+  border-radius: 100%;
+}
+.Deskripsi .Warna .Hijau {
+  width: 40px;
+  height: 40px;
+  background-color: green;
+  margin-right: 20px;
+  border-radius: 100%;
+}
+.Deskripsi .Warna .Kuning {
+  width: 40px;
+  height: 40px;
+  background-color: yellow;
+  margin-right: 20px;
+  border-radius: 100%;
+}
+.Deskripsi .Warna .Biru {
+  width: 40px;
+  height: 40px;
+  background-color: blue;
+  margin-right: 20px;
+  border-radius: 100%;
+}
+.Deskripsi .Warna .Merah:hover {
+  background-color: cadetblue;
+}
+.Deskripsi .Warna .Hijau:hover {
+  background-color: cadetblue;
+}
+.Deskripsi .Warna .Kuning:hover {
+  background-color: cadetblue;
+}
+.Deskripsi .Warna .Biru:hover {
+  background-color: cadetblue;
+}
+.Deskripsi .Beli {
+  margin-top: 30px;
+  margin-right: 20px;
+  width: 80px;
+  height: 40px;
+  background-color: black;
+  color: aliceblue;
+  border-radius: 30px;
+}
+.Deskripsi .Wish {
+  margin-top: 30px;
+  width: 130px;
+  height: 40px;
+  background-color: white;
+  border-radius: 30px;
+}
+.Deskripsi .Beli:hover {
+  background-color: cadetblue;
+}
+.Deskripsi .Wish:hover {
+  background-color: cadetblue;
+}
